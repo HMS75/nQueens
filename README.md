@@ -149,7 +149,7 @@ public static void main(String[] args)
 
 ---
 
-## 🧪 Sample Output (N = 4)
+## Sample Output (N = 4)
 
 ```
 . Q . .
